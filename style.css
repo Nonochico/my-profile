@@ -64,11 +64,12 @@ a:hover; {
 }
 .card-white {
 	background-color: white;
-	padding: 40px;
+	padding: 30px;
 	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
 	border-radius: 4px;
 	margin: 20px 0px;
 	text-align: center;
+	border: 1px solid lightgrey;
 }
 .btn-blue {
 	background-color: #3D879A;
@@ -115,7 +116,7 @@ a:hover; {
 
 .list-inline i {
 	font-size: 50px;
-	color: rgb(230, 230, 230 / 1.0);
+	color: #3D879A; 
 }
 
 #introduction p {
